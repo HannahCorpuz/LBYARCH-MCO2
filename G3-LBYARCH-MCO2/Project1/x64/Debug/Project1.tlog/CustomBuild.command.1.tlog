@@ -1,0 +1,2 @@
+^C:\NASM\PROJECT1\PROJECT1\ASMFUNC.ASM
+C:\nasm\nasm -f win64 asmfunc.asm
