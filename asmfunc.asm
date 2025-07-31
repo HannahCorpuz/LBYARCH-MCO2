@@ -1,3 +1,7 @@
+
+;Group 3
+;Names: Corpuz, Hannah and Chang, Alwyn
+;Section S13A
 ; assembly part using x86-64
 section .data
 
@@ -6,10 +10,10 @@ section .text
 bits 64
 default rel ; to handle address relocation
 
-global asmhello
+global asmKernel
 extern printf
 
-asmhello:
+asmKernel:
 	SUBSS XMM0, XMM2
 	SUBSS XMM1, XMM3
 
