@@ -15,6 +15,10 @@
 <img width="1113" height="625" alt="Screenshot 2025-07-31 205531" src="https://github.com/user-attachments/assets/8976efca-43a6-428f-9f34-ade900503635" />
 
 ## Accuracy Check of Program
+<img width="1919" height="1079" alt="Screenshot 2025-07-31 234023" src="https://github.com/user-attachments/assets/70ef875b-853e-48bd-9f8b-c4fc72c05a12" />
+
+<img width="1919" height="989" alt="Screenshot 2025-07-31 180826" src="https://github.com/user-attachments/assets/54816fb5-3a06-48f0-b8e0-f2ef0e812bc7" />
+
 
 ## [Short Video Recording](https://drive.google.com/file/d/1irJKqmhXl-ZpMN-0_mqRxSCYYDYLMR2l/view?usp=sharing)
 ##### Side Note: Folder Name of our MCO2 is G3-LBYARCH-MCO2
