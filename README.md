@@ -14,7 +14,10 @@
 
 <img width="1113" height="625" alt="Screenshot 2025-07-31 205531" src="https://github.com/user-attachments/assets/8976efca-43a6-428f-9f34-ade900503635" />
 
-   
+## Accuracy Check of Program
+
+## [Short Video Recording](https://drive.google.com/file/d/1irJKqmhXl-ZpMN-0_mqRxSCYYDYLMR2l/view?usp=sharing)
+##### Side Note: Folder Name of our MCO2 is G3-LBYARCH-MCO2
 ```bash
   Chang, Alwyn Stefan L.
   Corpuz, Hannah Francesca C.
