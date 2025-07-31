@@ -2,7 +2,7 @@
 
 ## Comparative Analysis
 
-   This project integrates the programming languages of x86-64 and C language in determining the kernel which calculates the distance between the coordinate points across two vectors. After implementing, coding, debugging, and running the code, we discovered that after 30 tries, the code in assembly language is faster than C language in terms of avergae execution time. When it comes to outputs, although the programming languages have differences in terms of their syntax, they were able to produce the same outputs. Since assembly level programming is the lowest level of programming and is eaily readable by humans, it makes sense that the execution time is much faster
+   This project integrates the programming languages of x86-64 and C language in determining the kernel which calculates the distance between the coordinate points across two vectors. After implementing, coding, debugging, and running the code, we discovered that after 30 tries, the code in assembly language is faster than C language in terms of avergae execution time. When it comes to outputs, although the programming languages have differences in terms of their syntax, they were able to produce the same outputs. Since assembly level programming is the lowest level of programming, meaning that it is closest to machine code, it makes sense that the execution time is much faster than C. 
 
 ## Result for n = 2^29 (with Correctness Check for C and ASM)
 <img width="1538" height="623" alt="Screenshot 2025-07-31 194537" src="https://github.com/user-attachments/assets/9a285d71-954e-4622-8ba1-ec6adac7155f" />
