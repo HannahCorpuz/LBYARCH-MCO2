@@ -23,6 +23,10 @@
 ## [Short Video Recording](https://drive.google.com/file/d/1irJKqmhXl-ZpMN-0_mqRxSCYYDYLMR2l/view?usp=sharing)
 ##### Side Note #1: Folder Name of our MCO2 is G3-LBYARCH-MCO2
 ##### Side Note #2: We have to link the short video since it's around 500 MB and Github can't handle that file size
+##### Side Note #3: Reason for why we can't use 2^30 and had to settle for 2^29
+<img width="316" height="171" alt="Screenshot 2025-07-29 135452" src="https://github.com/user-attachments/assets/caa640f6-26b4-4550-9dfe-623c6b969cb9" />
+
+
 ```bash
   Chang, Alwyn Stefan L.
   Corpuz, Hannah Francesca C.
