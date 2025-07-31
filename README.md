@@ -17,6 +17,8 @@
 ## Accuracy Check of Program
 <img width="1919" height="1079" alt="Screenshot 2025-07-31 234023" src="https://github.com/user-attachments/assets/70ef875b-853e-48bd-9f8b-c4fc72c05a12" />
 
+<img width="1919" height="1079" alt="Screenshot 2025-07-31 234518" src="https://github.com/user-attachments/assets/d6655587-fb19-4769-b3b4-dd47c3cace86" />
+
 
 ## [Short Video Recording](https://drive.google.com/file/d/1irJKqmhXl-ZpMN-0_mqRxSCYYDYLMR2l/view?usp=sharing)
 ##### Side Note: Folder Name of our MCO2 is G3-LBYARCH-MCO2
