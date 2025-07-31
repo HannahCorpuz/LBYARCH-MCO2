@@ -17,6 +17,7 @@
 ## Accuracy Check of Program
 
 ## [Short Video Recording](https://drive.google.com/file/d/1irJKqmhXl-ZpMN-0_mqRxSCYYDYLMR2l/view?usp=sharing)
+##### Side Note: Folder Name of our MCO2 is G3-LBYARCH-MCO2
 ```bash
   Chang, Alwyn Stefan L.
   Corpuz, Hannah Francesca C.
